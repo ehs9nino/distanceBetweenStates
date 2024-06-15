@@ -48,6 +48,10 @@ To view and interact with the application, you can navigate to http://localhost:
 - Twitter: [@twitterhandle](https://twitter.com/ehsan9nino)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ehsan-qader-a230a6165/)
 
+## Show your support
+
+Give a ⭐️ if you like this project!
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
